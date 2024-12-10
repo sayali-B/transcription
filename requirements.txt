@@ -1,0 +1,11 @@
+celery 
+redis
+django-celery-beat 
+djangorestframework-simplejwt
+django
+djangorestframework
+django_celery_results
+transformers
+pyannote-audio
+scikit-learn
+pydub

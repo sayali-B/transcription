@@ -1,0 +1,6 @@
+SPEAKER_00 <SPEAKER SPEAKER_00 0.03> 
+SPEAKER_03 <SPEAKER SPEAKER_03 7.08>  Obviously. Yes, I am.
+SPEAKER_04 <SPEAKER SPEAKER_04 9.48>  With resistance, yeah.
+SPEAKER_01 <SPEAKER SPEAKER_01 14.44>  MBC 뉴스 김
+SPEAKER_00 <SPEAKER SPEAKER_00 14.73>  I've never met a resistance fright before.
+SPEAKER_02 <SPEAKER SPEAKER_02 18.75>  Oh, this is what we look like. Some of us. I wish that they were different.
